@@ -1,5 +1,4 @@
 package com.luxoft.javabdd.bank;
-import com.luxoft.javabdd.bank.CreditOffer.*;
 
 public class BusinessCreditOffer extends AbstractFactory {
 

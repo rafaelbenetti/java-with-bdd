@@ -1,8 +1,6 @@
 package com.luxoft.javabdd.bank;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.HashSet;
 
 public abstract class AbstractFactory {
     private static final BusinessCreditOffer BUSINESS_CREDIT_OFFER = new BusinessCreditOffer();
@@ -25,11 +23,9 @@ public abstract class AbstractFactory {
         return factory;
     }
 
-    public List<Customer> customersList = new ArrayList<Customer>();
+    public HashSet<Customer> customersList = new HashSet<Customer>();
 
-    public List<Customer> getCustomersList() {
-        return Collections.unmodifiableList(customersList);
-    }
+    public HashSet<Customer> getCustomersList() { return customersList; }
 
     public abstract boolean addCustomer(Customer customer);
 
