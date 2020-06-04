@@ -1,3 +1,5 @@
 com\luxoft\javabdd\bank\Customer.class
 com\luxoft\javabdd\bank\Bank.class
+com\luxoft\javabdd\bank\BusinessCreditOffer.class
 com\luxoft\javabdd\bank\CreditOffer.class
+com\luxoft\javabdd\bank\EconomyCreditOffer.class

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb1917b6-d32e-4f7e-a036-176f5a443dbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/BusinessCreditOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/CreditOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/EconomyCreditOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/PremiumCreditOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luxoft/javabdd/bank/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luxoft/javabdd/bank/BusinessCreditOfferFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luxoft/javabdd/bank/EconomyCreditOfferFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luxoft/javabdd/bank/PremiumOfferFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/business_credit_offer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/economy_credit_offer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/premium_credit_offer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/CreditOffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/example1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/BusinessCreditOffer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/BusinessCreditOffer.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/EconomyCreditOffer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/EconomyCreditOffer.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-28-23_990-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-28-23_990.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-28-53_836-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-28-53_836.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-29-37_251-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-29-37_251.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-48-26_134-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-03T23-48-26_134.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/BankTest$EconomyCreditOfferTest$UsualCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/BankTest$EconomyCreditOfferTest$VipCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/BankTest$EconomyCreditOfferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/BankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/BusinessCreditOfferFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/EconomyCreditOfferFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/PremiumOfferFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/business_credit_offer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/economy_credit_offer.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/premium_credit_offer.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BankApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApplication.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/BankApplication.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApplication.iws" beforeDir="false" afterPath="$PROJECT_DIR$/BankApplication.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/CreditOfferType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/CreditOfferType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luxoft/javabdd/bank/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/luxoft/javabdd/bank/nested/NestedTestExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BankApplication-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BankApplication.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/example1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/AbstractFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/BusinessCreditOffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/BusinessCreditOffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/CreditOfferType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/EconomyCreditOffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/EconomyCreditOffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/PremiumCreditOffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luxoft/javabdd/bank/PremiumCreditOffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Bank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Bank.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Bank.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/CreditOffer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/CreditOffer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/CreditOffer.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/CreditOffer.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Customer.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/Customer.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.luxoft.javabdd.bank/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.luxoft.javabdd.bank.nested.BankTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.luxoft.javabdd.bank.nested.BankTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BankApplication.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$BusinessCreditOfferTest$UsualCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$BusinessCreditOfferTest$VipCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$BusinessCreditOfferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$EconomyCreditOfferTest$UsualCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$EconomyCreditOfferTest$VipCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$EconomyCreditOfferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$PremiumCreditOfferTest$UsualCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$PremiumCreditOfferTest$VipCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest$PremiumCreditOfferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luxoft/javabdd/bank/nested/BankTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cpM3J0GT5rTxP7Nce1jl0xTFlI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.luxoft.javabdd.bank" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luxoft.javabdd.bank" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\benetti\workspace\java-with-bdd\bank_application\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: business_credit_offer_scenarios">
+    <configuration name="Feature: business_credit_offer_scenarios" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features" />
+      <option name="GLUE" value="com.luxoft.javabdd.bank" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="example1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: business_credit_offer_scenarios" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in example1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditOfferUnitTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.javabdd.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.javabdd.bank" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.javabdd.bank.CreditOfferUnitTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: business_credit_offer_scenarios" />
+      <item itemvalue="JUnit.All in example1" />
+      <item itemvalue="JUnit.CreditOfferUnitTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreditOfferUnitTests" />
+        <item itemvalue="JUnit.All in example1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb1917b6-d32e-4f7e-a036-176f5a443dbb" name="Default Changelist" comment="" />
+      <created>1591220880190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591220880190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591221580935">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1591221580935" />
+    <state x="1063" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591258050198">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1063" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1040@0.0.2560.1040" timestamp="1591258050198" />
+    <state x="589" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591256219806">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="589" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1591256219806" />
+    <state width="2517" height="471" key="GridCell.Tab.0.bottom" timestamp="1591258287439">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="471" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591258287439" />
+    <state width="2517" height="471" key="GridCell.Tab.0.center" timestamp="1591258287439">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="471" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591258287439" />
+    <state width="2517" height="471" key="GridCell.Tab.0.left" timestamp="1591258287438">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="471" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591258287438" />
+    <state width="2517" height="471" key="GridCell.Tab.0.right" timestamp="1591258287439">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="471" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591258287439" />
+    <state width="1234" height="344" key="GridCell.Tab.1.bottom" timestamp="1591221299440">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="344" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591221299440" />
+    <state width="1234" height="344" key="GridCell.Tab.1.center" timestamp="1591221299439">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="344" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591221299439" />
+    <state width="1234" height="344" key="GridCell.Tab.1.left" timestamp="1591221299439">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="344" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591221299439" />
+    <state width="1234" height="344" key="GridCell.Tab.1.right" timestamp="1591221299440">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="344" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591221299440" />
+    <state x="1421" y="165" key="SettingsEditor" timestamp="1591221046004">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1591221046004" />
+    <state x="987" y="253" width="585" height="558" key="find.popup" timestamp="1591254964512">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="253" width="585" height="558" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1591254964512" />
+    <state x="936" y="240" key="run.anything.popup" timestamp="1591255232201">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="936" y="240" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1591255232201" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/example1$All_in_example1.ic" NAME="All in example1 Coverage Results" MODIFIED="1591221587682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/example1$Feature__business_credit_offer_scenarios.ic" NAME="Feature: business_credit_offer_scenarios Coverage Results" MODIFIED="1591220981859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/example1$BankTest.ic" NAME="BankTest Coverage Results" MODIFIED="1591258341769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.luxoft.javabdd.bank.*</FILTER>
+    </SUITE>
+  </component>
+</project>

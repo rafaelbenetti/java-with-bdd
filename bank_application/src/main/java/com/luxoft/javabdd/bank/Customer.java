@@ -17,4 +17,5 @@ public class Customer {
 	public boolean isVip() {
 		return vip;
 	}
+
 }
